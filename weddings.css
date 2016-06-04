@@ -1,0 +1,41 @@
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+.content{
+    text-align: center;
+    padding-top:25%;
+}
+body{
+    background: url(https://images.unsplash.com/photo-1453857122308-5e78881d7acc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=c02cc68e848cc645bd95d69c58e0df0b);
+    background-size: cover;
+    background-position: top;
+
+}
+
+.navbar-inverse{
+    background-color: #E6DAD5;
+
+}
+.navbar-inverse .navbar-brand{
+    color:#9E8702;
+}
+
+.navbar-inverse .navbar-nav>li>a>{
+    color:#9E8702;
+}
+ul li.active{
+    background-color: gray;
+}
+
+h1{
+    font-size: 180px;
+    color: #52511D;
+    font-family: 'Dancing Script', cursive;
+
+}
+h3{
+    font-size: 17px;
+    color: #52511D;
+}
