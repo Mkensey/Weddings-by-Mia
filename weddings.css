@@ -1,0 +1,48 @@
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+.content{
+    text-align: center;
+    padding-top:25%;
+    text-shadow:    0px 4px 3px rgba(0,0,0,0.4),
+                    0px 8px 13px rgba(0,0,0,0.1),
+                    0px 18px 23px rgba(0,0,0,0.1);
+}
+body{
+    background: url(https://images.unsplash.com/photo-1453857122308-5e78881d7acc?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=c02cc68e848cc645bd95d69c58e0df0b);
+    background-size: cover;
+    background-position: top;
+
+}
+html{
+    height: 100%;
+}
+hr{
+    width: 400px;
+}
+.navbar-inverse{
+    background-color: #E6DAD5;
+
+}
+.navbar-inverse .navbar-brand{
+    color:#9E8702;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+    color:#9E8702;
+}
+
+
+h1{
+    font-size: 5em;
+    color: #9E8702;
+    font-family: 'Dancing Script', cursive;
+    font-weight: bold;  
+
+}
+h3{
+    font-size: 17px;
+    color: #9E8702;
+}
